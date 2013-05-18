@@ -1,0 +1,9 @@
+﻿// File contents should contain services in the format:
+// <verbose name>:<service name>
+// One service per line.
+SQL Server Express:MSSQL$SQLEXPRESS
+SQL Server Agent:SQLAgent$SQLEXPRESS
+SQL Server Browser:SQLBrowser
+SQL Server VSS Writer:SQLWriter
+MySQL Server:MySQL
+Tomcat 6:Tomcat6

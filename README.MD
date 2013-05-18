@@ -33,4 +33,6 @@ This program is provided as-is, and whilst I have taken every precaution to ensu
 
 Enjoy, and feel free to issue copies to your friends if they want it. The program has been issued under GPL GNU version 3 license, a copy of which is enclosed, so please ensure that if you supply a copy to someone, you send them the original archive that includes all the files and a copy of the license. Many thanks.
 
-C Walker.
+Chris Walker.
+cwalker.me.uk
+chris@cwalker.me.uk
